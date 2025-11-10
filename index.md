@@ -7,5 +7,6 @@
 
 ## ⌨️ Activity: Adding an image
 
-![My favourite place] (https://www.icloud.com/iclouddrive/0647iGiqXLv57PRVOkn2JJroA#IMG_0640_Small)
+![My favourite place](https://www.icloud.com/iclouddrive/0647iGiqXLv57PRVOkn2JJroA#IMG_0640_Small)
+
 
