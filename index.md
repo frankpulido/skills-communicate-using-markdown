@@ -9,6 +9,8 @@
 
 ![My favourite place](https://www.icloud.com/iclouddrive/0647iGiqXLv57PRVOkn2JJroA#IMG_0640_Small)
 
+## ⌨️ Activity: Add a code snippet
+
 ```php
 <?php
 declare(strict_types=1);
@@ -88,4 +90,11 @@ class Appointment extends Model
 }
 ```
 
+## ⌨️ Activity: Add a task list
+
+- [x] Create models and migrations
+- [x] Create factories and seeders
+- [x] Create observers and controllers
+- [ ] Create and test routes using browser and Postman
+- [ ] Create PHPUnit tests (this is not TDD !!)
 
