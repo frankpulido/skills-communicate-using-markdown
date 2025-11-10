@@ -7,7 +7,7 @@
 
 ## ⌨️ Activity: Adding an image
 
-![My favourite place](https://www.icloud.com/iclouddrive/0647iGiqXLv57PRVOkn2JJroA#IMG_0640_Small)
+![My favourite place](https://www.submarinismocostabrava.com/media/lugar/sant-pere-pescador.jpg)
 
 ## ⌨️ Activity: Add a code snippet
 
@@ -97,4 +97,5 @@ class Appointment extends Model
 - [x] Create observers and controllers
 - [ ] Create and test routes using browser and Postman
 - [ ] Create PHPUnit tests (this is not TDD !!)
+
 
